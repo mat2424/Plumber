@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Perfect Plumbing App</string>
+    <string name="title_activity_main">Perfect Plumbing App</string>
+    <string name="package_name">com.perfectplumbing.app</string>
+    <string name="custom_url_scheme">com.perfectplumbing.app</string>
+</resources>
